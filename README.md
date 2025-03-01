@@ -1,3 +1,3 @@
-# Hello! Welcome to my Github profiel
+# Hello, welcome to my Github profile!
 
 ## My name is Landiel!
