@@ -1,10 +1,13 @@
 ## Hey, I'm Landiel! 
----
+
+
 
 **`FullStack Developer`**
 
-I'm from Brazil, I'm 20 years old and I'm studyng software engineering, I love developing with Node.js
-I'm learning Java at the moment.
+* I'm from Brazil
+* I'm studyng software engineering
+* I love developing with Node.js
+* I'm learning Java at the moment.
 
 ## 🤖 Languages ​​and Technologies
 
@@ -75,20 +78,44 @@ style="padding-right: 10px;"
 <br/>
 
 ## 📈Statistics
-
 <p>
-<img
+
+</p>
+
+<table align="center">
+  <tr>
+    <td>
+    <img
 align="left"
 alt="GitHub Stats"
-height="200"
 style="padding-right: 10px;"
 src="https://github-readme-stats.vercel.app/api?username=LandielDurans&show_icons=true&theme=aura&include_all_commits=true"
 />
-
-<img
+    </td>
+    <td>
+    <img
 align="left"
 alt="GitHub Stats"
-style="padding-right: 10px;"
+height="150"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LandielDurans&theme=aura&layout=compact&custom_title=Technologies&langs_count=9"
 />
-</p>
+    </td>
+  </tr>
+</table>
+
+## 📱Contacts
+<a href="https://www.instagram.com/landiel.durans/">
+<img
+align="left"
+width=55px"
+style="padding-right: 10px;"
+src="https://static.cdninstagram.com/rsrc.php/v4/yI/r/VsNE-OHk_8a.png"
+/>
+</a>
+
+<a href="www.linkedin.com/in/landiel-durans-016952350">
+<img
+align="left"
+width="45px"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+</a>
