@@ -1,7 +1,5 @@
 ## Hey, I'm Landiel! 
 
-
-
 **`FullStack Developer`**
 
 * I'm from Brazil
@@ -102,21 +100,3 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=LandielDuran
     </td>
   </tr>
 </table>
-
-## 📱Contacts
-<a href="https://www.instagram.com/landiel.durans/">
-<img
-align="left"
-width=50px"
-style="padding-right: 10px;"
-src="https://static.cdninstagram.com/rsrc.php/v4/yI/r/VsNE-OHk_8a.png"
-/>
-</a>
-
-<a href="https://www.linkedin.com/in/landiel-durans-016952350">
-<img
-align="left"
-width="45px"
-style="margin-left: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
-</a>
