@@ -89,7 +89,7 @@ style="padding-right: 10px;"
 align="left"
 alt="GitHub Stats"
 height="170"
-style="padding-right: 10px;"
+style="width=100%;"
 src="https://github-readme-stats.vercel.app/api?username=LandielDurans&show_icons=true&theme=aura&include_all_commits=true"
 />
     </td>
@@ -97,7 +97,7 @@ src="https://github-readme-stats.vercel.app/api?username=LandielDurans&show_icon
     <img
 align="left"
 alt="GitHub Stats"
-height="150"
+style="max-width=100%;"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LandielDurans&theme=aura&layout=compact&custom_title=Technologies&langs_count=9"
 />
     </td>
