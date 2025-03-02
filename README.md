@@ -88,6 +88,7 @@ style="padding-right: 10px;"
     <img
 align="left"
 alt="GitHub Stats"
+height="170"
 style="padding-right: 10px;"
 src="https://github-readme-stats.vercel.app/api?username=LandielDurans&show_icons=true&theme=aura&include_all_commits=true"
 />
@@ -113,9 +114,10 @@ src="https://static.cdninstagram.com/rsrc.php/v4/yI/r/VsNE-OHk_8a.png"
 />
 </a>
 
-<a href="www.linkedin.com/in/landiel-durans-016952350">
+<a href="https://www.linkedin.com/in/landiel-durans-016952350">
 <img
 align="left"
+style="margin-left: 10px;"
 width="45px"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
 </a>
