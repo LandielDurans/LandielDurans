@@ -79,7 +79,7 @@ style="padding-right: 10px;"
 
 </p>
 
-<table align="center">
+<table align="left">
   <tr>
     <td>
     <img
