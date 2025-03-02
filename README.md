@@ -96,7 +96,7 @@ src="https://github-readme-stats.vercel.app/api?username=LandielDurans&show_icon
     <img
 align="left"
 alt="GitHub Stats"
-height="155"
+height="150"
 style="max-width=100%;"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LandielDurans&theme=aura&layout=compact&custom_title=Technologies&langs_count=9"
 />
