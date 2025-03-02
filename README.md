@@ -88,7 +88,6 @@ style="padding-right: 10px;"
     <img
 align="left"
 alt="GitHub Stats"
-height="170"
 style="width=100%;"
 src="https://github-readme-stats.vercel.app/api?username=LandielDurans&show_icons=true&theme=aura&include_all_commits=true"
 />
