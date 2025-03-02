@@ -107,7 +107,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=LandielDuran
 <a href="https://www.instagram.com/landiel.durans/">
 <img
 align="left"
-width=55px"
+width=50px"
 style="padding-right: 10px;"
 src="https://static.cdninstagram.com/rsrc.php/v4/yI/r/VsNE-OHk_8a.png"
 />
@@ -116,7 +116,7 @@ src="https://static.cdninstagram.com/rsrc.php/v4/yI/r/VsNE-OHk_8a.png"
 <a href="https://www.linkedin.com/in/landiel-durans-016952350">
 <img
 align="left"
-style="margin-left: 10px;"
 width="45px"
+style="margin-left: 10px;"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
 </a>
