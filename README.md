@@ -82,14 +82,13 @@ align="left"
 alt="GitHub Stats"
 height="200"
 style="padding-right: 10px;"
-src="https://github-readme-stats.vercel.app/api?username=LandielDurans&show_icons=true&theme=midnight-purple&include_all_commits=true"
+src="https://github-readme-stats.vercel.app/api?username=LandielDurans&show_icons=true&theme=aura&include_all_commits=true"
 />
 
 <img
 align="left"
 alt="GitHub Stats"
-height="200"
 style="padding-right: 10px;"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=LandielDurans&theme=midnight-purple&layout=compact&custom_title=Technologies&langs_count=9"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=LandielDurans&theme=aura&layout=compact&custom_title=Technologies&langs_count=9"
 />
 </p>
