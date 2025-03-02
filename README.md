@@ -88,16 +88,15 @@ style="padding-right: 10px;"
     <img
 align="left"
 alt="GitHub Stats"
-style="width=100%;"
+style="width: 100%;"
 src="https://github-readme-stats.vercel.app/api?username=LandielDurans&show_icons=true&theme=aura&include_all_commits=true"
 />
     </td>
     <td>
     <img
-align="left"
+align="center"
 alt="GitHub Stats"
-height="150"
-style="max-width=100%;"
+style="max-width: 100%;"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LandielDurans&theme=aura&layout=compact&custom_title=Technologies&langs_count=9"
 />
     </td>
