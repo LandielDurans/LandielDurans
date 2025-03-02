@@ -5,7 +5,6 @@
 * I'm from Brazil
 * I'm studyng software engineering
 * I love developing with Node.js
-* I'm learning Java at the moment.
 
 ## 🤖 Languages ​​and Technologies
 
