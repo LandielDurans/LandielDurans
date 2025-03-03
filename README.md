@@ -13,7 +13,7 @@
 align="left"
 alt="Html"
 title="Html"
-width="40px"
+width="30px"
 style="padding-right: 10px;"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
  
@@ -21,14 +21,14 @@ style="padding-right: 10px;"
 align="left"
 alt="CSS"
 title="Css"
-width="40px"
+width="30px"
 style="padding-right: 10px;"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 
  
 <img
   align="left"
-  width="40px"
+  width="30px"
   alt="JavaScript"
   title="JavaScript"
   style="padding-right: 10px;"
@@ -39,7 +39,7 @@ style="padding-right: 10px;"
   align="left"
   alt="NodeJs"
   title="NodeJs"
-  width="40px"
+  width="30px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
           
@@ -48,14 +48,14 @@ style="padding-right: 10px;"
 align="left"
 alt="Git"
 title="Git"
-width="40px"
+width="30px"
 style="padding-right: 10px;"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
           
           
   <img
   align="left"
-  width="40px"
+  width="30px"
   alt="Figma"
   title="Figma"
   style="padding-right: 10px;"
@@ -64,7 +64,7 @@ style="padding-right: 10px;"
             
 <img
 align="left"
-width="40px"
+width="30px"
 alt="Tailwind"
 title="Tailwind"
 style="padding-right: 10px;"
@@ -73,7 +73,7 @@ style="padding-right: 10px;"
 
 <img
 align="left"
-width="40px"
+width="30px"
 alt="ExpressJs"
 title="ExpressJs"
 style="padding-right: 10px;"
