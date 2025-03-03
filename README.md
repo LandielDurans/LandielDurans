@@ -27,7 +27,7 @@ style="padding-right: 10px;"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 
  
- <img
+<img
   align="left"
   width="40px"
   alt="JavaScript"
@@ -35,15 +35,14 @@ style="padding-right: 10px;"
   style="padding-right: 10px;"
   style='padding-right: 10px;'
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-
-
+  
 <img
-align="left"
-alt="NodeJs"
-title="NodeJs"
-width="40px"
-style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
+  align="left"
+  alt="NodeJs"
+  title="NodeJs"
+  width="40px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
           
           
 <img
