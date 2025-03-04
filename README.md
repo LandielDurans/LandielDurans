@@ -4,8 +4,7 @@
 
 * I'm from Brazil
 * I'm studyng software engineering
-* I love developing with Node.js
-
+  
 ## 🤖 Languages ​​and Technologies
 
 
