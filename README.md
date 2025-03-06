@@ -7,7 +7,6 @@
   
 ## 🤖 Languages ​​and Technologies
 
-
 <img
 align="left"
 alt="Html"
