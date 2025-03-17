@@ -66,7 +66,7 @@ width="30px"
 alt="Tailwind"
 title="Tailwind"
 style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
           
 
 <img
