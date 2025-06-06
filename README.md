@@ -2,7 +2,7 @@
 
 **`FullStack Developer`**
 
-* I'm from Brazil
+* I'm from São Luis, Maranhão, Brazil
 * I'm studyng software engineering
   
 ## 🤖 Languages ​​and Technologies
