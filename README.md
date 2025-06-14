@@ -93,24 +93,10 @@ style="padding-right: 10px;"
 <p>
 
 </p>
-
-<table align="left">
-  <tr>
-    <td>
-    <img
-align="left"
-alt="GitHub Stats"
-style="width: 100%;"
-src="https://github-readme-stats.vercel.app/api?username=LandielDurans&show_icons=true&theme=aura&include_all_commits=true"
-/>
-    </td>
-    <td>
-    <img
+   
+<img
 align="center"
 alt="GitHub Stats"
 style="max-width: 100%;"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LandielDurans&theme=aura&layout=compact&custom_title=Technologies&langs_count=9"
-/>
-    </td>
-  </tr>
-</table>
+/>  
